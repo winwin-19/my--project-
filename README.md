@@ -29,7 +29,7 @@ This project is a custom-designed printed circuit board (PCB) based on the ESP32
 
 ![emage](https://github.com/winwin-19/my--project-/blob/d6c2b0993adce12c3192d66ad1bfe66259ce73c1/Screenshot%202026-05-30%20231602.png)
 
-
+![enage](https://github.com/winwin-19/my--project-/blob/37ad6f5125f0b98f16168f22f4c502284569d078/Screenshot%202026-05-30%20231549.png)
 
 
 ## Features
@@ -65,7 +65,7 @@ The lower part of the image is cut off, so components below U5 are not visible.
 
 ## Author Name
 
-*MARIMAR CABATE*
+*ARMIA BARREDO*
 
 ## Course & Section
 
