@@ -24,6 +24,9 @@ This project is a custom-designed printed circuit board (PCB) based on the ESP32
 # PCB IMAGE /SCREENSHOTS
 
 
+![emage](https://github.com/winwin-19/my--project-/blob/7d23d76b7b96bc16df97499c7a0a147ea9594fd6/Screenshot%202026-05-30%20231615.png)
+
+
 
 
 ## Features
